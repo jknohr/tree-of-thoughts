@@ -2,7 +2,7 @@ repo_name: jknohr/tree-of-thoughts
 report_id: ed26644724e43bb23b0af1b2bcedd38b
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-28T04:56:39+00:00'
+timestamp: '2024-01-05T08:14:36+00:00'
 requested_by: kyegomez
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/jknohr/tree-of-thoughts
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -26,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jknohr/tree-of-thoughts
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -35,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/jknohr/tree-of-thoughts/blob/main/.github/workflows/python-publish.yml
   detection_source: ".github/workflows/python-publish.yml"
   last_updated_by: Kye
   last_updated_on: 2023-05-21 15:33:00.000000000 Z
@@ -46,6 +49,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/jknohr/tree-of-thoughts/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Kye
   last_updated_on: 2023-05-27 01:20:51.000000000 Z
@@ -57,6 +61,7 @@ tools:
   category: Communications
   sub_category: Large Language Models
   image_url: https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg
+  detection_source_url: https://github.com/jknohr/tree-of-thoughts/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Kye
   last_updated_on: 2023-05-27 01:20:51.000000000 Z
@@ -68,6 +73,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/jknohr/tree-of-thoughts/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Kye
   last_updated_on: 2023-11-25 10:08:56.000000000 Z
@@ -79,6 +85,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/jknohr/tree-of-thoughts/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Kye
   last_updated_on: 2023-05-27 01:20:51.000000000 Z
